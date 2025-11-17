@@ -50,7 +50,7 @@
 
     <td width="40%" valign="middle">
       <div align="center">
-         <img src="About-me.png" alt="Amika Fernando" width="100%" style="border-radius: 15px; border: 2px solid #2DE1FC; box-shadow: 0 0 25px rgba(45, 225, 252, 0.6);" />
+         <img src="https://github.com/amika2005/amika2005/blob/main/About-me.png?raw=true" alt="Amika Fernando" width="100%" style="border-radius: 15px; border: 2px solid #2DE1FC; box-shadow: 0 0 25px rgba(45, 225, 252, 0.6);" />
       </div>
     </td>
   </tr>
