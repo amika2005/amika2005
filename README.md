@@ -145,4 +145,4 @@
 </div>
 
 <br>
-<p align="right" > Created by <a href="http://supun.traditionalme.life">Amika Fernando</a></p>
+<p align="right" > Created by <a href="https://amika-portfolio.netlify.app/">Amika Fernando</a></p>
