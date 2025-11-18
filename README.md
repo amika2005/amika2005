@@ -117,11 +117,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&ver=1" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&include_all_commits=true&ver=2" height="160" alt="stats graph" />
   </a>
   <img src="https://raw.githubusercontent.com/ultrasonicsoft/space-invaders/master/spacer.gif" width="20" height="10" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&ver=1" height="160" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&ver=2" height="160" alt="languages graph" />
   </a>
 </div>
 
@@ -129,10 +129,9 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC&ver=1" alt="Streak" width="90%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC&ver=2" alt="Streak" width="90%" />
   </a>
 </div>
-
 <br/>
 
 <div align="center">
