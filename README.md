@@ -2,28 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2DE1FC&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Amika+Fernando;Software+Engineering+Intern;Building+AI+%26+Automation+Solutions;Mobile+%26+Web+Developer" alt="Typing SVG" />
 
   <div align="center">
-  
-  <p align="center" style="margin-bottom: 5px;">
-    <a href="https://amika-portfolio.netlify.app/" target="_blank">
-      <img src="https://api.iconify.design/mdi:google-chrome.svg?color=%232DE1FC" width="30" alt="Portfolio" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="mailto:amikafernando123@gmail.com">
-      <img src="https://api.iconify.design/mdi:email.svg?color=%232DE1FC" width="30" alt="Email" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-      <img src="https://api.iconify.design/mdi:linkedin.svg?color=%232DE1FC" width="30" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/a4amiiika" target="_blank">
-      <img src="https://api.iconify.design/mdi:instagram.svg?color=%232DE1FC" width="30" alt="Instagram" />
-    </a>
-  </p>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284109-106e585d-3d6e-4403-84c2-657464624c49.gif" width="300" style="opacity: 0.8; border-radius: 10px;" />
-
-</div>
+    <p align="center" style="margin-bottom: 5px;">
+      <a href="https://amika-portfolio.netlify.app/" target="_blank">
+        <img src="https://api.iconify.design/mdi:google-chrome.svg?color=%232DE1FC" width="30" alt="Portfolio" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="mailto:amikafernando123@gmail.com">
+        <img src="https://api.iconify.design/mdi:email.svg?color=%232DE1FC" width="30" alt="Email" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+        <img src="https://api.iconify.design/mdi:linkedin.svg?color=%232DE1FC" width="30" alt="LinkedIn" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://instagram.com/a4amiiika" target="_blank">
+        <img src="https://api.iconify.design/mdi:instagram.svg?color=%232DE1FC" width="30" alt="Instagram" />
+      </a>
+    </p>
+    <img src="https://user-images.githubusercontent.com/74038190/212284109-106e585d-3d6e-4403-84c2-657464624c49.gif" width="300" style="opacity: 0.8; border-radius: 10px;" />
+  </div>
 </div>
 
 <br />
@@ -107,7 +104,6 @@
   </a>
 </p>
 
-
 <br />
 
 <div align="center" id="stats">
@@ -121,11 +117,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&ver=1" height="160" alt="stats graph" />
   </a>
   <img src="https://raw.githubusercontent.com/ultrasonicsoft/space-invaders/master/spacer.gif" width="20" height="10" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC" height="160" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&ver=1" height="160" alt="languages graph" />
   </a>
 </div>
 
@@ -133,10 +129,9 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC" alt="Streak" width="90%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC&ver=1" alt="Streak" width="90%" />
   </a>
 </div>
-
 
 <br/>
 
