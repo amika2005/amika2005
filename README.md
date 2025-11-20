@@ -144,9 +144,37 @@
 </div>
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2DE1FC&height=120&section=footer&animation=fadeIn"/>
+<br />
+
+<div align="center" style="position: relative;">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 15px; border: 2px solid #2DE1FC; opacity: 0.9;">
+
+  <div style="margin-top: -60px; position: relative; z-index: 10; background-color: rgba(13, 17, 23, 0.9); display: inline-block; padding: 5px 20px; border-radius: 8px; border: 1px solid #2DE1FC; box-shadow: 0 0 10px #2DE1FC;">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=22&pause=1000&color=2DE1FC&center=true&vCenter=true&width=450&lines=CODING_THE_FUTURE_🚀;SYSTEM_STATUS:_ONLINE_✅;THANK_YOU_FOR_VISITING_👋" alt="Footer Typing" />
+  </div>
+
 </div>
+
+<br/>
+
+<div align="center">
+   <img src="https://img.shields.io/badge/LOCATION-SRI_LANKA-0d1117?style=for-the-badge&logo=googlemaps&logoColor=2DE1FC&labelColor=0d1117" />
+   
+   <img src="https://raw.githubusercontent.com/ultrasonicsoft/space-invaders/master/spacer.gif" width="10" />
+   
+   <img src="https://img.shields.io/badge/VISITORS-Accessing...-0d1117?style=for-the-badge&logo=github&logoColor=2DE1FC&labelColor=0d1117" />
+   
+   <img src="https://raw.githubusercontent.com/ultrasonicsoft/space-invaders/master/spacer.gif" width="10" />
+   
+   <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-0d1117?style=for-the-badge&logo=proteus&logoColor=2DE1FC&labelColor=0d1117" />
+</div>
+
+<br/>
+
+<p align="center" style="color: #2DE1FC; font-family: monospace; font-size: 12px;">
+  © 2025 Amika Fernando | <a href="https://amika-portfolio.netlify.app/" style="color: #ffffff; text-decoration: none;">View Portfolio</a>
+</p>
 
 <br>
 <p align="right" > Created by <a href="https://amika-portfolio.netlify.app/">Amika Fernando</a></p>
