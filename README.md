@@ -145,7 +145,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2DE1FC&height=120&section=footer&animation=fadeIn"/>
 </div>
 
 <br>
