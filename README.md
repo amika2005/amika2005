@@ -176,5 +176,6 @@
   © 2025 Amika Fernando | <a href="https://amika-portfolio.netlify.app/" style="color: #ffffff; text-decoration: none;">View Portfolio</a>
 </p>
 
+
 <br>
 <p align="right" > Created by <a href="https://amika-portfolio.netlify.app/">Amika Fernando</a></p>
