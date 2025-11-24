@@ -110,29 +110,20 @@
   <h3 style="font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px;">
     📊 SYSTEM ANALYTICS
   </h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86043cf9e703.gif" width="50%" style="border-radius: 10px; opacity: 0.8;">
+  <table align="center" border="0" width="95%">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff&ver=3" alt="Amika's Stats" />
+        <br/><br/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC&ver=3" alt="Amika's Streak" />
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff&ver=3" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br />
-
-<table align="center" border="0" width="95%">
-  <tr border="none">
-    <td width="50%" align="center">
       
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff" alt="Amika's Stats" />
-      
-   <br/><br/>
-      
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC" alt="Amika's Streak" />
-      
-  </td>
-    
- <td width="50%" align="center">
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff" alt="Top Languages"/>
-      
-   </td>
-  </tr>
 </table>
 
 <br />
