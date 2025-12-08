@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2DE1FC&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Amika+Fernando;Software+Engineering+Intern;Building+AI+%26+Automation+Solutions;Mobile+%26+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2DE1FC&center=true&vCenter=true&width=450&lines=Hi+👋,+I'm+Amika+Fernando;Software+Engineering+Intern;Building+AI+%26+Automation+Solutions;Mobile+%26+Web+Developer" alt="Typing SVG" />
 
   <div align="center">
     <p align="center" style="margin-bottom: 5px;">
@@ -110,21 +110,28 @@
   <h3 style="font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px;">
     📊 SYSTEM ANALYTICS
   </h3>
-  <table align="center" border="0" width="95%">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff&ver=3" alt="Amika's Stats" />
-        <br/><br/>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC&ver=3" alt="Amika's Streak" />
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff&ver=3" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86043cf9e703.gif" width="50%" style="border-radius: 10px; opacity: 0.8;">
 </div>
-      
-</table>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff&ver=3" height="150" alt="Amika's Stats" />
+  </a>
+  <img src="https://raw.githubusercontent.com/ultrasonicsoft/space-invaders/master/spacer.gif" width="10" height="10" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff&ver=3" height="150" alt="Top Languages"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC&ver=3" width="90%" alt="Streak" />
+  </a>
+</div>
 
 <br />
 
@@ -133,31 +140,23 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amika2005&theme=tokyo-night&hide_border=true&area=true&color=2DE1FC&line=2DE1FC&point=ffffff&bg_color=0d1117" width="95%" alt="Activity Graph" />
   </a>
 </div>
-<br/>
 
 <br />
 
 <div align="center" style="position: relative;">
-  
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 15px; border: 2px solid #2DE1FC; opacity: 0.9;">
-
   <div style="margin-top: -60px; position: relative; z-index: 10; background-color: rgba(13, 17, 23, 0.9); display: inline-block; padding: 5px 20px; border-radius: 8px; border: 1px solid #2DE1FC; box-shadow: 0 0 10px #2DE1FC;">
      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=22&pause=1000&color=2DE1FC&center=true&vCenter=true&width=450&lines=CODING_THE_FUTURE_🚀;SYSTEM_STATUS:_ONLINE_✅;THANK_YOU_FOR_VISITING_👋" alt="Footer Typing" />
   </div>
-
 </div>
 
 <br/>
 
 <div align="center">
    <img src="https://img.shields.io/badge/LOCATION-SRI_LANKA-0d1117?style=for-the-badge&logo=googlemaps&logoColor=2DE1FC&labelColor=0d1117" />
-   
    <img src="https://raw.githubusercontent.com/ultrasonicsoft/space-invaders/master/spacer.gif" width="10" />
-   
    <img src="https://img.shields.io/badge/VISITORS-Accessing...-0d1117?style=for-the-badge&logo=github&logoColor=2DE1FC&labelColor=0d1117" />
-   
    <img src="https://raw.githubusercontent.com/ultrasonicsoft/space-invaders/master/spacer.gif" width="10" />
-   
    <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-0d1117?style=for-the-badge&logo=proteus&logoColor=2DE1FC&labelColor=0d1117" />
 </div>
 
@@ -166,7 +165,3 @@
 <p align="center" style="color: #2DE1FC; font-family: monospace; font-size: 12px;">
   © 2025 Amika Fernando | <a href="https://amika-portfolio.netlify.app/" style="color: #ffffff; text-decoration: none;">View Portfolio</a>
 </p>
-
-
-<br>
-<p align="right" > Created by <a href="https://amika-portfolio.netlify.app/">Amika Fernando</a></p>
