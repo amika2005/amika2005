@@ -117,19 +117,19 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff&ver=3" height="150" alt="Amika's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amika2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff" height="150" alt="Amika's Stats" />
   </a>
   <img src="https://raw.githubusercontent.com/ultrasonicsoft/space-invaders/master/spacer.gif" width="10" height="10" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=00000000&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff&ver=3" height="150" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amika2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=2DE1FC&icon_color=2DE1FC&text_color=ffffff" height="150" alt="Top Languages"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amika2005&theme=tokyonight&hide_border=true&background=00000000&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC&ver=3" width="90%" alt="Streak" />
+  <a href="https://streak-stats.demolab.com?user=amika2005">
+    <img src="https://streak-stats.demolab.com?user=amika2005&theme=tokyonight&hide_border=true&background=0d1117&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC" width="90%" alt="Streak" />
   </a>
 </div>
 
