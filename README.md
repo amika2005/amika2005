@@ -127,12 +127,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://streak-stats.demolab.com?user=amika2005">
-    <img src="https://streak-stats.demolab.com?user=amika2005&theme=tokyonight&hide_border=true&background=0d1117&ring=2DE1FC&currStreakLabel=2DE1FC&fire=2DE1FC" width="90%" alt="Streak" />
-  </a>
-</div>
-
 <br />
 
 <div align="center">
