@@ -157,5 +157,5 @@
 <br/>
 
 <p align="center" style="color: #2DE1FC; font-family: monospace; font-size: 12px;">
-  © 2025 Amika Fernando | <a href="https://amika-portfolio.netlify.app/" style="color: #ffffff; text-decoration: none;">View Portfolio</a>
+  © 2025 Amika Fernando | <a href="https://amikaf-portfolio.vercel.app/" style="color: #ffffff; text-decoration: none;">View Portfolio</a>
 </p>
